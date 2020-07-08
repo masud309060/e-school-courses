@@ -1,0 +1,102 @@
+
+.container {
+    margin-bottom: 70px;
+}
+.navbar {
+    font-weight: 600;
+    font-size: 18px;
+}
+.main {
+    background-color: rgb(205, 231, 235);
+    margin-bottom: 50px;
+
+}
+.main h1 {
+    font-weight: 700;
+}
+.sign-in-button, .get-start-button {
+    background-color: #10ac84;
+    border: none;
+    color: white;
+    border-radius: 25px;
+    padding: 8px 25px;
+    cursor: pointer;
+}
+.buy-now-button {
+    background-color: #10ac84;
+    border: none;
+    color: white;
+    border-radius: 25px;
+    padding: 6px 25px;
+    cursor: pointer;
+}
+.container .logo {
+    width: 200px;
+}
+.highlight-text {
+    color: #10ac84;
+}
+.main h6 {
+    color: red;
+    font-weight: 400;
+}
+.main-image {
+    width: 100%;
+}
+
+.col-md-3 img {
+    width: 50px;
+}
+.box-style {
+    padding: 50px 0px;
+    background-color: white;
+    box-shadow: 0px 0px 5px rgba(60, 60, 60, 0.1);
+}
+.box-style:hover {
+    box-shadow: 0px 0px 15px rgba(60, 60, 60, 0.2);
+
+}
+.box-style h5 {
+    margin-top: 10px;
+
+}
+h2 {
+    font-weight: 700;
+}
+.card {
+    border: none;
+    box-shadow: 0px 0px 15px rgba(60, 60, 60, 0.1);
+    border-radius: 10px;
+    background-color: white;
+}
+.card img {
+    padding: 20px;
+    height: 250px;
+}
+.card:hover {
+    box-shadow: none; 
+}
+.testimonial img{
+    width: 100px;
+}
+footer {
+    font-weight: 300;
+    font-size: 14px;
+}
+.subscribe {
+    width: 60%;
+    height: 250px;
+    margin: 20px auto;
+    text-align: center;
+    background-color: rgb(205, 231, 235);
+    border-radius: 10px;
+}
+.subscribe-item {
+    position: relative;
+    padding: 25px;
+}
+.subscribe input {
+    border: 2px solid gray;
+    border-radius: 5px;
+    padding: 8px 20px;
+}
